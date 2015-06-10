@@ -23,6 +23,7 @@ public class PersonView {
 	@PostConstruct
 	public void init(){
 		personList = personService.getPersonList();
+		System.out.println(personList);
 	}
 	
 	public List<Person> getPersonList(){

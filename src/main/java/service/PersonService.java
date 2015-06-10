@@ -5,7 +5,6 @@ import java.util.ArrayList;
 import javax.faces.bean.ApplicationScoped;
 import javax.faces.bean.ManagedBean;
 import java.util.List;
-import java.util.ArrayList;
 import beans.Person;
 
 /*
